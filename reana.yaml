@@ -11,7 +11,7 @@ workflow:
       - name: process
         environment: docker.io/coffeateam/coffea-dask-cc7:0.7.22-py3.10-g7f049
         commands:
-        - python analysis.py
+          - python analysis.py
 outputs:
   files:
     - histogram.png

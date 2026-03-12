@@ -10,8 +10,7 @@
 This [REANA](http://www.reana.io/) reproducible analysis example provides a
 simple example how to run Dask workflows using Coffea. The example was adapted
 from
-[Coffea Casa
-tutorials](https://github.com/CoffeaTeam/coffea-casa-tutorials/blob/master/examples/example1.ipynb)
+[Coffea Casa tutorials](https://github.com/CoffeaTeam/coffea-casa-tutorials/blob/master/examples/example1.ipynb)
 repository.
 
 ## Analysis structure
